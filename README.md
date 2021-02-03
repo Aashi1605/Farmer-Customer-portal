@@ -15,14 +15,14 @@ make sure that all transactions are smooth and fair.
      
 ##List of Tables:
 
--Crop_key: Stores all the crops along with their keys.
+- Crop_key: Stores all the crops along with their keys.
 
--Crop: Stores crops that the farmers add.
+- Crop: Stores crops that the farmers add.
 
--Users: Stores the data of users including email, password and type of user.
+- Users: Stores the data of users including email, password and type of user.
 
--Balance: Stores the balance of all the farmers.
+- Balance: Stores the balance of all the farmers.
 
- Cart : stores all the items added to cart and calculates total.
+- Cart : stores all the items added to cart and calculates total.
  
 ER DIAGRAM AND SCHEMA are added to folder
