@@ -3,7 +3,7 @@ The conventional way of buying and selling crops has a number of flaws and are o
 farmers.The main aim of this project was to maximize the profits of farmers and to eliminate the role of middlemen who occupy the entire space between the production and the ultimate sale of the produce.Hence the portal reduces the gap between farmers and consumers ,thus benefiting both groups.This portal has two types of customers-farmers and customers. The farmers can add crops they want to sell and specify quantity and crops. These crops can be viewed by customers and be added to cart. The customer can checkout and the same amount will be credited in the farmers wallet from which the customer has purchased the products. This portal completely eliminates the need for middlemen and
 make sure that all transactions are smooth and fair.
 
-##TOOLS AND TECHNOLOGIES USED:
+## TOOLS AND TECHNOLOGIES USED:
 
 - Design and Interface: HTML, CSS
 
@@ -13,7 +13,7 @@ make sure that all transactions are smooth and fair.
 
 - Designing: Draw.io
      
-##List of Tables:
+## List of Tables:
 
 - Crop_key: Stores all the crops along with their keys.
 
